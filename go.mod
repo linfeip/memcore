@@ -1,4 +1,4 @@
-module github.com/leslie-fei/memcore
+module github.com/linfeip/memcore
 
 go 1.21
 
